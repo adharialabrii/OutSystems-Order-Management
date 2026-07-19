@@ -49,7 +49,7 @@ A simple **Order Management System** built using **OutSystems**. The application
 
 ---
 
-# 📖 How to Use
+# How to Use
 
 ## 1. Login
 
@@ -146,7 +146,7 @@ The order status updates automatically.
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 - Email notifications
 - Dashboard with analytics
@@ -154,6 +154,6 @@ The order status updates automatically.
 
 ---
 
-## 👤 Author
+## Author
 
 **Adhari Al-Abri**
